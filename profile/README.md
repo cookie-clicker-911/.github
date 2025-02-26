@@ -22,13 +22,13 @@ Open Sesame is the developer console in Cookie Clicker, allowing players to acce
 This feature is perfect for players who want to experiment with different strategies, test features, or just have fun tweaking the game.
 
 ---
-## 🚀 How to Enable Open Sesame in Cookie Clicker
+## 🚀 How to Enable Open Sesame in [Cookie Clicker](https://cookieclicker.me)
 
 There are two main ways to enable Open Sesame: changing your bakery name or using the developer console.
 
 ### Method 1: Using Bakery Name Cheat
 
-1. Open Cookie Clicker (Click here to play).
+1. Open Cookie Clicker (Click [here](https://cookieclicker.ee) to play).
 
 2. Click on your bakery name at the top of the screen.
 
@@ -107,7 +107,7 @@ While using Open Sesame can be fun, keep these things in mind:
 
 Now that you know how to enable Open Sesame, you can experiment with all the hidden tools and enhance your Cookie Clicker experience. Whether you use it for testing or just for fun, Open Sesame opens a world of possibilities!
 
-Start baking now!
+Start baking [now](https://cookieclickerorteil.github.io)!
 
 Have you tried Open Sesame? What’s your favorite cheat or trick? Let us know in the comments below! 🍪
 
