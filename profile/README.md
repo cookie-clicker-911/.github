@@ -10,7 +10,7 @@
 
 ➡️ [GitHub](https://cookieclickerorteil.github.io) Unblocked Versions | [cookieclickerorteil.github.io](https://cookieclickernew.github.io)
 
-➡️ Download the Mobile or Steam Version (When available)
+➡️ Download the Mobile or Steam Version
 
 1. [Steam Version](https://store.steampowered.com/app/1454400/Cookie_Clicker/)
 
