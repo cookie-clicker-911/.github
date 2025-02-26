@@ -2,9 +2,15 @@
 
 [![COOKIE  (1)](https://github.com/user-attachments/assets/1eeb7b30-a925-481a-a661-8d643e27fd50)](https://cookieclicker.ee)
 
-## Play Cookie Clicker [here](https://cookieclicker.ee)
+## Play Now:
 
-Did you know that Cookie Clicker has a hidden developer console called "Open Sesame"? This secret tool allows you to enable cheats, unlock upgrades, and modify your game instantly. Whether you’re a casual player curious about hidden features or a dedicated baker looking for an extra boost, this guide will show you how to activate and use Open Sesame in Cookie Clicker!
+➡️ [Cookie Clicker](https://cookieclicker.ee) – Official Website
+
+➡️ [Alternative Unblocked Version](https://cookieclicker.me) | [cookieclicker.app](https://cookieclicker.app)
+
+➡️ [GitHub](https://cookieclickerorteil.github.io) Unblocked Versions | [cookieclickerorteil.github.io](https://cookieclickernew.github.io)
+
+➡️ [Steam Version](https://store.steampowered.com/app/1454400/Cookie_Clicker/)
 
 ---
 ## 🍪 What is Open Sesame in [Cookie Clicker](https://cookieclicker.ee)?
