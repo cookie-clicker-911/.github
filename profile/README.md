@@ -67,8 +67,9 @@ Want unlimited cookies? Click "+1,000,000,000 cookies" or enter:
 
 Max out your game instantly:
 
-`Game.UpgradesById.forEach(upgrade => upgrade.unlock());
-Game.AchievementsById.forEach(achievement => achievement.unlock());`
+`Game.UpgradesById.forEach(upgrade => upgrade.unlock());`
+
+`Game.AchievementsById.forEach(achievement => achievement.unlock());`
 
 3. Spawn Golden Cookies Instantly
 
